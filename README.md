@@ -2,7 +2,7 @@
 
 #### Here's what I'm currently up too:
 
-- Creating ML models for fine grain action recognition
+- 🎥Creating ML models for fine grain action recognition
 - 🧮Learning math behind CV tools to upgrade autonomous driving suite
 - 🤖Building robots and connecting them through IOT services
 
