@@ -1,4 +1,4 @@
-### Hi, I'm Martin! Passionate about computer vision, ML, and human robot interaction.
+### Hi, I'm Martin! Passionate about computer vision, cloud security, and human robot interaction.
 
 #### Here's what I'm currently up too:
 
