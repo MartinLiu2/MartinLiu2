@@ -1,4 +1,4 @@
-### Hi, I'm Martin! Passionate about computer vision, cloud security, and human robot interaction.
+### Hi, I'm Martin! Passionate about computer vision, cloud, and human robot interaction.
 
 #### Here's what I'm currently up too:
 
@@ -11,6 +11,7 @@
 - Python for personal projects
 - Java and C in academic enviornments
 - OpenCV and PyTorch for computer vision and ML applications
+- React and Javascript for web applications
 
 
 <!--
